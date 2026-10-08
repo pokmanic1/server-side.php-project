@@ -1,0 +1,26 @@
+{
+  "name": "server-side.php-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+            "dev": "tailwindcss -i project-pdf/css/input.css -o  project-pdf/css/output.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pokmanic1/server-side.php-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pokmanic1/server-side.php-project/issues"
+  },
+  "homepage": "https://github.com/pokmanic1/server-side.php-project#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.3",
+    "tailwindcss": "^4.3.3"
+  }
+}
