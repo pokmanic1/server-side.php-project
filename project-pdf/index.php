@@ -6,7 +6,7 @@
 
     <title>Manager PDF</title>
 
-    <link rel="stylesheet" href="css/output.css">
+    <link rel="stylesheet" href="project-pdf/css/output.css">
 </head>
 
 <body class="bg-gray-100">
@@ -22,6 +22,7 @@
         </p>
 
     </div>
+<script src="js/documents.js"></script>
 
 </body>
 </html>
